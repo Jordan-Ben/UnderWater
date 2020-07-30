@@ -1,0 +1,60 @@
+﻿Creature = Starfish
+    Name = Gloria;
+    Description = Has 5 arms that can regenerate;          
+    Sound = Chirp;
+    Size = 3;
+    Defense = covered in pedicellaria spikes;
+    Diet = oysters;
+    Gender = Female;
+------------------------------------------
+Creature = Angelfish
+    Name = Alistair
+    Description = Diamond shaped with vertial stripes
+    Sound = Harp Strings
+    Size = 3
+    Defense = Poisonous
+    Diet = worms
+    Gender = Male
+---------------------------------------------------
+Creature = Shrimp
+    Name = Lenny  
+    Description = 
+    Sound = 
+    Size = 
+    Defense = 
+    Diet = 
+    Gender = 
+---------------------------------------------------
+Creature = SeaSlug
+    Name = Misfit
+    Description = 
+    Sound = 
+    Size = 
+    Defense = 
+    Diet = 
+    Gender = 
+---------------------------------------------------
+Creature = Gooseneck
+    Name = 
+    Description = 
+    Sound = 
+    Size = 
+    Defense = 
+    Diet = 
+    Gender = 
+---------------------------------------------------
+Creature = Sculpin
+    Name = 
+    Description = 
+    Sound = 
+    Size = 
+    Defense = 
+    Diet = 
+    Gender = 
+---------------------------------------------------
+
+
+
+
+
+
